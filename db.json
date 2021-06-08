@@ -1,0 +1,162 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/vegy.jpg",
+      "altimg": "vegy",
+      "title": "Меню 'Фитнес'",
+      "descr": "Меню 'Фитнес' - это новый подход к приготовлению блюд: больше свежих овощей и фруктов. Продукт активных и здоровых людей. Это абсолютно новый продукт с оптимальной ценой и высоким качеством!",
+      "price": 9
+    },
+    {
+      "img": "img/tabs/post.jpg",
+      "altimg": "post",
+      "title": "Меню 'Постное'",
+      "descr": "Меню 'Постное' - это тщательный подбор ингредиентов: полное отсутствие продуктов животного происхождения, молоко из миндаля, овса, кокоса или гречки, правильное количество белков за счет тофу и импортных вегетарианских стейков.",
+      "price": 14
+    },
+    {
+      "img": "img/tabs/elite.jpg",
+      "altimg": "elite",
+      "title": "Меню 'Премиум'",
+      "descr": "В меню 'Премиум' мы используем не только красивый дизайн упаковки, но и качественное исполнение блюд. Красная рыба, морепродукты, фрукты - ресторанное меню без похода в ресторан!",
+      "price": 21
+    }
+  ],
+  "requests": [
+    {
+      "name": "awdwad",
+      "phone": "awdwad",
+      "id": 1
+    },
+    {
+      "name": "wadwad",
+      "phone": "awdwadwa",
+      "id": 2
+    },
+    {
+      "name": "wadwad",
+      "phone": "awdwad",
+      "id": 3
+    },
+    {
+      "name": "awdwad",
+      "phone": "awdwad",
+      "id": 4
+    },
+    {
+      "name": "awdw",
+      "phone": "awdwad",
+      "id": 5
+    },
+    {
+      "name": "awd",
+      "phone": "awdwad",
+      "id": 6
+    },
+    {
+      "name": "awdwad",
+      "phone": "awdwadw",
+      "id": 7
+    },
+    {
+      "name": "awdwd",
+      "phone": "awdwadwa",
+      "id": 8
+    },
+    {
+      "name": "wdadw",
+      "phone": "adwada",
+      "id": 9
+    },
+    {
+      "name": "awdwd",
+      "phone": "awdawd",
+      "id": 10
+    },
+    {
+      "name": "awdwad",
+      "phone": "awdwada",
+      "id": 11
+    },
+    {
+      "name": "awdawd",
+      "phone": "awdwad",
+      "id": 12
+    },
+    {
+      "name": "wadwad",
+      "phone": "awdwad",
+      "id": 13
+    },
+    {
+      "name": "dwad",
+      "phone": "awdwad",
+      "id": 14
+    },
+    {
+      "name": "wdawdwa",
+      "phone": "awdwad",
+      "id": 15
+    },
+    {
+      "name": "awdwad",
+      "phone": "awdwad",
+      "id": 16
+    },
+    {
+      "name": "awdwad",
+      "phone": "awdaw",
+      "id": 17
+    },
+    {
+      "name": "awdwad",
+      "phone": "awdwadaw",
+      "id": 18
+    },
+    {
+      "name": "awdwad",
+      "phone": "awdwad",
+      "id": 19
+    },
+    {
+      "name": "wadwa",
+      "phone": "awdwad",
+      "id": 20
+    },
+    {
+      "name": "awdwad",
+      "phone": "awdwad",
+      "id": 21
+    },
+    {
+      "name": "dawd",
+      "phone": "awdwadaw",
+      "id": 22
+    },
+    {
+      "name": "sres",
+      "phone": "ydryd",
+      "id": 23
+    },
+    {
+      "name": "wad",
+      "phone": "awdwad",
+      "id": 24
+    },
+    {
+      "name": "wadwad",
+      "phone": "awdwadwd",
+      "id": 25
+    },
+    {
+      "name": "wada",
+      "phone": "awdw",
+      "id": 26
+    },
+    {
+      "name": "wadd",
+      "phone": "awdwad",
+      "id": 27
+    }
+  ]
+}
